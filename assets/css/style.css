@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  width: 100dvw;
+  height: 100dvh;
+  background-image: radial-gradient(ellipse, #385300, #212900);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contour {
+  height: 615px;
+  width: 476px;
+  border-radius: 12px;
+  box-shadow: ;
+  background-color: #bef227;
+}
